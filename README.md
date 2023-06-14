@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/sunny-agent-landing-page-gsap-4L0fclrCwj)
+- Live Site URL: [https://brilliant-frangipane-c8a61a.netlify.app/)
 
 ## My process
 
